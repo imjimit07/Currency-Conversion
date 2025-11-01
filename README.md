@@ -1,8 +1,8 @@
 # Global Markets Dashboard
 
-A comprehensive, single-page web application that provides a real-time overview of global financial markets. This dashboard brings together currency exchange rates, cryptocurrency prices, major stock market data, and the latest financial news into one convenient and easy-to-use interface.
-
 ![Alt text](assets/Screenshot.png)
+
+A comprehensive, single-page web application that provides a real-time overview of global financial markets. This dashboard brings together currency exchange rates, cryptocurrency prices, major stock market data, and the latest financial news into one convenient and easy-to-use interface.
 
 ## Features
 
