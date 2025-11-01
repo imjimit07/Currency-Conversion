@@ -92,8 +92,8 @@ This project is licensed under the GNU General Public License v3.0.
 
 ## Contributors
 
-*   [@imjimit07] - Initial development, feature implementation, FinnHub and CoinGecko API implementation, etc.
-*   [@HimanshuMerani123] - ExchangeRate API documentation, implementation, etc.
-*   [@Husain53100] - UI/UX development.
-*   [@James420-error] - API Bug fixes, documentation.
-*   [@Savanpatel-108] - GNews.io API implementation and documentation.
+*   @imjimit07 - Initial development, feature implementation, FinnHub and CoinGecko API implementation, etc.
+*   @HimanshuMerani123 - ExchangeRate API documentation, implementation, etc.
+*   @Husain53100 - UI/UX development.
+*   @James420-error - API Bug fixes, documentation.
+*   @Savanpatel-108 - GNews.io API implementation and documentation.
